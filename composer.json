@@ -1,0 +1,13 @@
+{
+    "name": "kimura-media/note-service",
+    "description": "Microservice for saving and retrieving notes on things.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Brevig",
+            "email": "michaelbrevig@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
